@@ -1,0 +1,4 @@
+.idea
+jiactng-gpx-facts.iml
+src/main/java/META-INF/sun-jaxb.episode
+src/main/java/de/effms/jiactng/facts/gpx/*.java
